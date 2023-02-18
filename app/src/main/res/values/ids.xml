@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="inDaysTxtView" type="id" />
+    <item name="textView7" type="id" />
+    <item name="textView8" type="id" />
+    <item name="inMinutesTxtView" type="id" />
+    <item name="inSecondsTxtView" type="id" />
+    <item name="textView4" type="id" />
+    <item name="showDayTextView" type="id" />
+    <item name="btnBirthday" type="id" />
+    <item name="textView" type="id" />
+</resources>
